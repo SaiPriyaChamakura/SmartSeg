@@ -1,0 +1,51 @@
+# --- Python cache & compiled files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environment ---
+venv/
+.env/
+.venv/
+ENV/
+env/
+*.env
+
+# --- Streamlit & cache ---
+.streamlit/
+.cache/
+logs/
+*.log
+
+# --- Jupyter / notebooks ---
+.ipynb_checkpoints/
+
+# --- System / OS files ---
+.DS_Store
+Thumbs.db
+
+# --- VS Code / IDE files ---
+.vscode/
+.idea/
+
+# --- Hugging Face / Transformers cache ---
+.huggingface/
+transformers_cache/
+datasets/
+tokenizers/
+model_cache/
+
+# --- Ollama / local model artifacts ---
+ollama_models/
+ollama/
+models/
+
+# --- Temporary files ---
+*.tmp
+*.bak
+*.swp
+
+# --- Build artifacts ---
+build/
+dist/
+*.egg-info/
