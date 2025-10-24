@@ -1,8 +1,7 @@
 # 🧠 SmartSeg — AI-Powered ABC × XYZ Inventory Intelligence Dashboard
-
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartseg-kn6vrjntmccyre3hgmystm.streamlit.app/)
 
-# 🧠 SmartSeg — AI-Powered ABC × XYZ Inventory Intelligence Dashboard
+
 
 SmartSeg is an **AI-driven inventory intelligence system** built using **Streamlit, Python, and Ollama (Phi model)**.  
 It combines **ABC–XYZ classification**, **safety stock optimization**, and **AI-generated operational insights**  
