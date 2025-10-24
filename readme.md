@@ -1,3 +1,6 @@
+# 🧠 SmartSeg — AI-Powered ABC × XYZ Inventory Intelligence Dashboard
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartseg-kn6vrjntmccyre3hgmystm.streamlit.app/)
 
 # 🧠 SmartSeg — AI-Powered ABC × XYZ Inventory Intelligence Dashboard
 
@@ -7,7 +10,10 @@ to help manufacturing and supply chain teams improve **safety, quality, producti
 
 ---
 
-## 🚀 Features
+## 🌐 Live Demo
+
+Try the interactive version of SmartSeg here:  
+👉 **[smartseg.streamlit.app](https://smartseg-kn6vrjntmccyre3hgmystm.streamlit.app/)**
 
 ✅ **ABC × XYZ Classification**  
 Automatically segments items based on annual value (ABC) and demand variability (XYZ).
