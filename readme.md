@@ -63,7 +63,4 @@ SmartSeg solves these problems with:
 | Optional | Transformers (DistilGPT2) |
 | Deployment | Local or Streamlit Cloud (Lite Version) |
 
----
-
-## 📦 Project Structure
 
